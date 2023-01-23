@@ -29,9 +29,11 @@ url: "https://rochelleb1.github.io/fast-robots/" # the base hostname & protocol 
 github_username:  rochelleb1
 
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-remote-theme
+# remote_theme: pages-themes/cayman@v0.2.0
+# plugins:
+#   - jekyll-remote-theme
+
+theme: minima
 
 # Exclude from processing.
 # The following items will not be processed, by default.
