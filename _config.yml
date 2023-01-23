@@ -29,9 +29,8 @@ url: "https://fast-robots.github.io" # the base hostname & protocol for your sit
 github_username:  rochelleb1
 
 # Build settings
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-feed
   - jekyll-remote-theme
 
 # Exclude from processing.
